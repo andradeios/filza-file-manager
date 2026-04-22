@@ -1,0 +1,369 @@
+[2026-04-22T05:58:25.413Z] {"timestamp":1776837503399,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T05:58:25.413Z] {"timestamp":1776837503408,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T05:58:25.413Z] {"timestamp":1776837503817,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T05:58:27.412Z] {"timestamp":1776837507171,"level":"LOG","args":["Clicked item:",{"id":"13","name":"Free Fire","size":"Zero KB","icon":"🔥","bgColor":"bg-orange-500","isFolder":true}],"stack":null}
+[2026-04-22T06:00:17.402Z] {"timestamp":1776837616340,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:00:17.402Z] {"timestamp":1776837616340,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:00:20.768Z] {"timestamp":1776837618760,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:00:20.768Z] {"timestamp":1776837618769,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:00:20.768Z] {"timestamp":1776837618798,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:00:24.773Z] {"timestamp":1776837624465,"level":"LOG","args":["Clicked item:",{"id":"1","name":"Free Fire","size":"Zero KB","icon":"🔥","bgColor":"bg-orange-500","isFolder":true}],"stack":null}
+[2026-04-22T06:02:25.179Z] {"timestamp":1776837723910,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:02:25.179Z] {"timestamp":1776837723910,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:03:06.133Z] {"timestamp":1776837781021,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:03:06.133Z] {"timestamp":1776837781022,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:03:19.822Z] {"timestamp":1776837797813,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:03:19.822Z] {"timestamp":1776837797816,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:03:19.822Z] {"timestamp":1776837797853,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:03:27.816Z] {"timestamp":1776837806327,"level":"LOG","args":["Clicked item:",{"id":"6","name":"Messenger","size":"Zero KB","icon":"https://cdn-icons-png.flaticon.com/512/733/733547.png","bgColor":"","isFolder":false}],"stack":null}
+[2026-04-22T06:03:27.816Z] {"timestamp":1776837807183,"level":"LOG","args":["Clicked item:",{"id":"6","name":"Messenger","size":"Zero KB","icon":"https://cdn-icons-png.flaticon.com/512/733/733547.png","bgColor":"","isFolder":false}],"stack":null}
+[2026-04-22T06:03:27.816Z] {"timestamp":1776837807687,"level":"LOG","args":["Clicked item:",{"id":"1","name":"Free Fire","size":"Zero KB","icon":"https://cdn-icons-png.flaticon.com/512/888/888879.png","bgColor":"","isFolder":true}],"stack":null}
+[2026-04-22T06:04:06.164Z] {"timestamp":1776837846138,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:07.175Z] {"timestamp":1776837846142,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:07.175Z] {"timestamp":1776837846829,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:07.175Z] {"timestamp":1776837847026,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:08.176Z] {"timestamp":1776837846826,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:08.176Z] {"timestamp":1776837847019,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:08.176Z] {"timestamp":1776837847181,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:08.176Z] {"timestamp":1776837847323,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:08.176Z] {"timestamp":1776837847482,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:08.176Z] {"timestamp":1776837847633,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:08.176Z] {"timestamp":1776837847907,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:08.176Z] {"timestamp":1776837848092,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:09.172Z] {"timestamp":1776837847185,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:09.172Z] {"timestamp":1776837847330,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:09.172Z] {"timestamp":1776837847486,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:09.172Z] {"timestamp":1776837847635,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:09.172Z] {"timestamp":1776837847910,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:09.172Z] {"timestamp":1776837848094,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:09.172Z] {"timestamp":1776837848300,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:09.172Z] {"timestamp":1776837848476,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:09.172Z] {"timestamp":1776837848641,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:09.172Z] {"timestamp":1776837848869,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:10.178Z] {"timestamp":1776837848297,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:10.178Z] {"timestamp":1776837848466,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:10.178Z] {"timestamp":1776837848639,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:10.178Z] {"timestamp":1776837848867,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:04:32.594Z] {"timestamp":1776837870587,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:04:32.594Z] {"timestamp":1776837870594,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:04:32.594Z] {"timestamp":1776837870622,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:05:23.173Z] {"timestamp":1776837922450,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:05:23.174Z] {"timestamp":1776837922462,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:05:54.484Z] {"timestamp":1776837935185,"level":"ERROR","args":["[vite]","Failed to reload /src/components/FilzaFileManager.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)"],"stack":"Error\n    at console.<computed> [as error] (http://localhost:3000/__manus__/debug-collector.js:391:37)\n    at Object.error (http://localhost:3000/@vite/client:809:26)\n    at HMRClient.warnFailedUpdate (http://localhost:3000/@vite/client:181:15)\n    at HMRClient.fetchUpdate (http://localhost:3000/@vite/client:212:10)\n    at async Promise.all (index 1)\n    at async HMRClient.queueUpdate (http://localhost:3000/@vite/client:196:5)\n    at async Promise.all (index 0)\n    at async handleMessage (http://localhost:3000/@vite/client:838:4)"}
+[2026-04-22T06:05:54.484Z] {"timestamp":1776837935235,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:05:54.484Z] {"timestamp":1776837935235,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:05:54.484Z] {"timestamp":1776837948892,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:05:54.484Z] {"timestamp":1776837948893,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:05:56.256Z] {"timestamp":1776837955482,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:05:56.256Z] {"timestamp":1776837955487,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:05:56.256Z] {"timestamp":1776837955491,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:05:58.293Z] {"timestamp":1776837956283,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:05:58.293Z] {"timestamp":1776837956286,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:05:58.293Z] {"timestamp":1776837956294,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:06:00.218Z] {"timestamp":1776837935245,"level":"ERROR","args":["[vite]","Failed to reload /src/components/FilzaFileManager.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)"],"stack":"Error\n    at console.<computed> [as error] (http://localhost:3000/__manus__/debug-collector.js:391:37)\n    at Object.error (http://localhost:3000/@vite/client:809:26)\n    at HMRClient.warnFailedUpdate (http://localhost:3000/@vite/client:181:15)\n    at HMRClient.fetchUpdate (http://localhost:3000/@vite/client:212:10)\n    at async Promise.all (index 1)\n    at async HMRClient.queueUpdate (http://localhost:3000/@vite/client:196:5)\n    at async Promise.all (index 0)\n    at async handleMessage (http://localhost:3000/@vite/client:838:4)"}
+[2026-04-22T06:06:00.218Z] {"timestamp":1776837935256,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:00.218Z] {"timestamp":1776837935256,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:06:00.218Z] {"timestamp":1776837948899,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:00.218Z] {"timestamp":1776837948900,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:06:15.164Z] {"timestamp":1776837975102,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:15.165Z] {"timestamp":1776837975104,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:17.170Z] {"timestamp":1776837975566,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:17.170Z] {"timestamp":1776837975771,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:17.170Z] {"timestamp":1776837975954,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:17.170Z] {"timestamp":1776837976115,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:17.181Z] {"timestamp":1776837975570,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:17.181Z] {"timestamp":1776837975773,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:17.181Z] {"timestamp":1776837975957,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:17.181Z] {"timestamp":1776837976127,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:24.167Z] {"timestamp":1776837981709,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:06:24.167Z] {"timestamp":1776837981712,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:06:24.167Z] {"timestamp":1776837981720,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:06:44.179Z] {"timestamp":1776838003226,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:44.179Z] {"timestamp":1776838003226,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:06:45.184Z] {"timestamp":1776838003233,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:06:45.184Z] {"timestamp":1776838003233,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:06:47.805Z] {"timestamp":1776838007185,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:06:47.805Z] {"timestamp":1776838007188,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:06:47.805Z] {"timestamp":1776838007195,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:06:50.177Z] {"timestamp":1776838007835,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:06:50.177Z] {"timestamp":1776838007838,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:06:50.177Z] {"timestamp":1776838007848,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:07:12.172Z] {"timestamp":1776838030621,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:07:12.172Z] {"timestamp":1776838030621,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:07:14.226Z] {"timestamp":1776838033542,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:07:14.226Z] {"timestamp":1776838033546,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:07:14.226Z] {"timestamp":1776838033552,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:07:17.170Z] {"timestamp":1776838034256,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:07:17.170Z] {"timestamp":1776838034259,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:07:17.170Z] {"timestamp":1776838034266,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:07:25.170Z] {"timestamp":1776838030638,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:07:25.170Z] {"timestamp":1776838030639,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:09:25.168Z] {"timestamp":1776838138722,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:09:25.168Z] {"timestamp":1776838138722,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:09:25.178Z] {"timestamp":1776838138732,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:09:25.178Z] {"timestamp":1776838138732,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:10:59.261Z] {"timestamp":1776838256224,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:10:59.261Z] {"timestamp":1776838256224,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:11:02.768Z] {"timestamp":1776838260759,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:11:02.768Z] {"timestamp":1776838260764,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:11:02.768Z] {"timestamp":1776838260798,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:11:11.174Z] {"timestamp":1776838269391,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:11:11.174Z] {"timestamp":1776838269391,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:11:13.266Z] {"timestamp":1776838272666,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:11:13.266Z] {"timestamp":1776838272669,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:11:13.266Z] {"timestamp":1776838272679,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:11:13.601Z] {"timestamp":1776838273297,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:11:13.601Z] {"timestamp":1776838273299,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:11:13.601Z] {"timestamp":1776838273307,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:11:13.810Z] {"timestamp":1776838273637,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:11:13.810Z] {"timestamp":1776838273640,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:11:13.810Z] {"timestamp":1776838273647,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:11:13.986Z] {"timestamp":1776838273840,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:11:13.986Z] {"timestamp":1776838273843,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:11:13.986Z] {"timestamp":1776838273849,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:11:15.529Z] {"timestamp":1776838274018,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:11:15.529Z] {"timestamp":1776838274021,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:11:15.529Z] {"timestamp":1776838274029,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:11:15.730Z] {"timestamp":1776838275561,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:11:15.730Z] {"timestamp":1776838275563,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:11:15.730Z] {"timestamp":1776838275570,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:11:15.899Z] {"timestamp":1776838275761,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:11:15.899Z] {"timestamp":1776838275764,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:11:15.899Z] {"timestamp":1776838275770,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:11:16.089Z] {"timestamp":1776838275930,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:11:16.089Z] {"timestamp":1776838275932,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:11:16.089Z] {"timestamp":1776838275939,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:11:18.177Z] {"timestamp":1776838276119,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:11:18.177Z] {"timestamp":1776838276122,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:11:18.177Z] {"timestamp":1776838276129,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:11:20.130Z] {"timestamp":1776838278581,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:11:20.130Z] {"timestamp":1776838278581,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:11:25.166Z] {"timestamp":1776838256233,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:11:25.166Z] {"timestamp":1776838256234,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:11:25.166Z] {"timestamp":1776838269386,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:11:25.166Z] {"timestamp":1776838269387,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:11:25.166Z] {"timestamp":1776838278589,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:11:25.166Z] {"timestamp":1776838278590,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:13:18.200Z] {"timestamp":1776838397490,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:13:18.200Z] {"timestamp":1776838397491,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:13:19.175Z] {"timestamp":1776838397497,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:13:19.175Z] {"timestamp":1776838397497,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:13:20.924Z] {"timestamp":1776838400253,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:13:20.924Z] {"timestamp":1776838400261,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:13:20.924Z] {"timestamp":1776838400289,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:13:21.497Z] {"timestamp":1776838400954,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:13:21.497Z] {"timestamp":1776838400962,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:13:21.497Z] {"timestamp":1776838400989,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:13:23.538Z] {"timestamp":1776838401528,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:13:23.538Z] {"timestamp":1776838401531,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:13:23.538Z] {"timestamp":1776838401538,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:13:34.172Z] {"timestamp":1776838413274,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:13:39.384Z] {"timestamp":1776838417373,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:13:39.384Z] {"timestamp":1776838417377,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:13:39.384Z] {"timestamp":1776838417383,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:14:25.181Z] {"timestamp":1776838413278,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:14:28.170Z] {"timestamp":1776838467156,"level":"ERROR","args":["[vite]","Failed to reload /src/components/FilzaFileManager.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)"],"stack":"Error\n    at console.<computed> [as error] (http://localhost:3000/__manus__/debug-collector.js:391:37)\n    at Object.error (http://localhost:3000/@vite/client:809:26)\n    at HMRClient.warnFailedUpdate (http://localhost:3000/@vite/client:181:15)\n    at HMRClient.fetchUpdate (http://localhost:3000/@vite/client:212:10)\n    at async Promise.all (index 1)\n    at async HMRClient.queueUpdate (http://localhost:3000/@vite/client:196:5)\n    at async Promise.all (index 0)\n    at async handleMessage (http://localhost:3000/@vite/client:838:4)"}
+[2026-04-22T06:14:28.170Z] {"timestamp":1776838467224,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:14:28.170Z] {"timestamp":1776838467225,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:14:32.176Z] {"timestamp":1776838470740,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:14:32.176Z] {"timestamp":1776838470741,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:14:37.572Z] {"timestamp":1776838475564,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:14:37.572Z] {"timestamp":1776838475571,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:14:37.572Z] {"timestamp":1776838475599,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:15:11.183Z] {"timestamp":1776838496622,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-04-22T06:15:17.893Z] {"timestamp":1776838515878,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:15:17.893Z] {"timestamp":1776838515904,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:15:17.893Z] {"timestamp":1776838516235,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:15:17.893Z] {"timestamp":1776838517560,"level":"LOG","args":["Clicked item:",{"id":"1","name":"Free Fire","size":"Zero KB","icon":"/icons/freefire.png","bgColor":"","isFolder":true}],"stack":null}
+[2026-04-22T06:15:25.171Z] {"timestamp":1776838467234,"level":"ERROR","args":["[vite]","Failed to reload /src/components/FilzaFileManager.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)"],"stack":"Error\n    at console.<computed> [as error] (http://localhost:3000/__manus__/debug-collector.js:391:37)\n    at Object.error (http://localhost:3000/@vite/client:809:26)\n    at HMRClient.warnFailedUpdate (http://localhost:3000/@vite/client:181:15)\n    at HMRClient.fetchUpdate (http://localhost:3000/@vite/client:212:10)\n    at async Promise.all (index 1)\n    at async HMRClient.queueUpdate (http://localhost:3000/@vite/client:196:5)\n    at async Promise.all (index 0)\n    at async handleMessage (http://localhost:3000/@vite/client:838:4)"}
+[2026-04-22T06:15:25.171Z] {"timestamp":1776838467236,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:15:25.171Z] {"timestamp":1776838467236,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:15:25.171Z] {"timestamp":1776838470749,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:15:25.171Z] {"timestamp":1776838470750,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:15:25.171Z] {"timestamp":1776838496622,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-04-22T06:15:28.173Z] {"timestamp":1776838525500,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:15:28.173Z] {"timestamp":1776838525507,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:15:28.173Z] {"timestamp":1776838525534,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:15:54.169Z] {"timestamp":1776838552206,"level":"ERROR","args":["[vite]","Failed to reload /src/components/FilzaFileManager.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)"],"stack":"Error\n    at console.<computed> [as error] (http://localhost:3000/__manus__/debug-collector.js:391:37)\n    at Object.error (http://localhost:3000/@vite/client:809:26)\n    at HMRClient.warnFailedUpdate (http://localhost:3000/@vite/client:181:15)\n    at HMRClient.fetchUpdate (http://localhost:3000/@vite/client:212:10)\n    at async Promise.all (index 1)\n    at async HMRClient.queueUpdate (http://localhost:3000/@vite/client:196:5)\n    at async Promise.all (index 0)\n    at async handleMessage (http://localhost:3000/@vite/client:838:4)"}
+[2026-04-22T06:15:54.169Z] {"timestamp":1776838552295,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:15:54.169Z] {"timestamp":1776838552296,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:15:54.170Z] {"timestamp":1776838552307,"level":"ERROR","args":["[vite]","Failed to reload /src/components/FilzaFileManager.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)"],"stack":"Error\n    at console.<computed> [as error] (http://localhost:3000/__manus__/debug-collector.js:391:37)\n    at Object.error (http://localhost:3000/@vite/client:809:26)\n    at HMRClient.warnFailedUpdate (http://localhost:3000/@vite/client:181:15)\n    at HMRClient.fetchUpdate (http://localhost:3000/@vite/client:212:10)\n    at async Promise.all (index 1)\n    at async HMRClient.queueUpdate (http://localhost:3000/@vite/client:196:5)\n    at async Promise.all (index 0)\n    at async handleMessage (http://localhost:3000/@vite/client:838:4)"}
+[2026-04-22T06:15:54.170Z] {"timestamp":1776838552319,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:15:54.170Z] {"timestamp":1776838552319,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:16:00.167Z] {"timestamp":1776838558809,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:16:00.167Z] {"timestamp":1776838558809,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:16:00.171Z] {"timestamp":1776838558816,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:16:00.171Z] {"timestamp":1776838558816,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:17:22.466Z] {"timestamp":1776838623004,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-04-22T06:17:25.176Z] {"timestamp":1776838623004,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-04-22T06:30:39.175Z] {"timestamp":1776839436889,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:30:39.175Z] {"timestamp":1776839436891,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:30:52.176Z] {"timestamp":1776839449913,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:30:52.176Z] {"timestamp":1776839449915,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:31:22.176Z] {"timestamp":1776839479556,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:31:22.176Z] {"timestamp":1776839479557,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:31:32.176Z] {"timestamp":1776839489743,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:31:32.176Z] {"timestamp":1776839489745,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:31:37.175Z] {"timestamp":1776839495161,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:31:37.175Z] {"timestamp":1776839495164,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:31:51.037Z] {"timestamp":1776839509021,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:31:51.037Z] {"timestamp":1776839509025,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:31:52.002Z] {"timestamp":1776839511482,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:31:52.002Z] {"timestamp":1776839511487,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:31:52.196Z] {"timestamp":1776839512034,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:31:52.196Z] {"timestamp":1776839512036,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:31:52.372Z] {"timestamp":1776839512226,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:31:52.372Z] {"timestamp":1776839512230,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:31:52.541Z] {"timestamp":1776839512401,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:31:52.541Z] {"timestamp":1776839512404,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:31:52.708Z] {"timestamp":1776839512569,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:31:52.708Z] {"timestamp":1776839512572,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:31:55.172Z] {"timestamp":1776839512738,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:31:55.172Z] {"timestamp":1776839512740,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:32:06.700Z] {"timestamp":1776839515996,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-04-22T06:32:12.136Z] {"timestamp":1776839530126,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:32:12.136Z] {"timestamp":1776839530135,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:32:51.167Z] {"timestamp":1776839568199,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:32:51.167Z] {"timestamp":1776839568270,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:33:00.178Z] {"timestamp":1776839577892,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:33:00.178Z] {"timestamp":1776839577951,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:33:26.743Z] {"timestamp":1776839588810,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-04-22T06:33:34.321Z] {"timestamp":1776839612305,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:33:34.321Z] {"timestamp":1776839612337,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:34:33.179Z] {"timestamp":1776839670968,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:34:33.179Z] {"timestamp":1776839670972,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:34:33.179Z] {"timestamp":1776839670988,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:34:33.179Z] {"timestamp":1776839671010,"level":"ERROR","args":[{"type":"UncaughtError","message":"Uncaught ReferenceError: freefireIcon is not defined","filename":"http://localhost:3000/src/components/FilzaFileManager.tsx?t=1776839670825","lineno":13,"colno":54,"stack":"ReferenceError: freefireIcon is not defined\n    at http://localhost:3000/src/components/FilzaFileManager.tsx?t=1776839670825:13:54"}],"stack":"ReferenceError: freefireIcon is not defined\n    at http://localhost:3000/src/components/FilzaFileManager.tsx?t=1776839670825:13:54"}
+[2026-04-22T06:35:21.179Z] {"timestamp":1776839711497,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-04-22T06:35:34.468Z] {"timestamp":1776839732454,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:35:34.468Z] {"timestamp":1776839732491,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:35:34.468Z] {"timestamp":1776839732794,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:35:34.468Z] {"timestamp":1776839732803,"level":"ERROR","args":[{"type":"UncaughtError","message":"Uncaught ReferenceError: freefireIcon is not defined","filename":"http://localhost:3000/src/components/FilzaFileManager.tsx","lineno":13,"colno":54,"stack":"ReferenceError: freefireIcon is not defined\n    at http://localhost:3000/src/components/FilzaFileManager.tsx:13:54"}],"stack":"ReferenceError: freefireIcon is not defined\n    at http://localhost:3000/src/components/FilzaFileManager.tsx:13:54"}
+[2026-04-22T06:35:38.171Z] {"timestamp":1776839736098,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:35:38.171Z] {"timestamp":1776839736101,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:35:38.171Z] {"timestamp":1776839736109,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:35:38.171Z] {"timestamp":1776839736125,"level":"ERROR","args":[{"type":"UncaughtError","message":"Uncaught ReferenceError: freefireIcon is not defined","filename":"http://localhost:3000/src/components/FilzaFileManager.tsx","lineno":13,"colno":54,"stack":"ReferenceError: freefireIcon is not defined\n    at http://localhost:3000/src/components/FilzaFileManager.tsx:13:54"}],"stack":"ReferenceError: freefireIcon is not defined\n    at http://localhost:3000/src/components/FilzaFileManager.tsx:13:54"}
+[2026-04-22T06:35:59.359Z] {"timestamp":1776839757345,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:35:59.359Z] {"timestamp":1776839757409,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:35:59.359Z] {"timestamp":1776839757415,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:35:59.359Z] {"timestamp":1776839757424,"level":"ERROR","args":[{"type":"UncaughtError","message":"Uncaught ReferenceError: freefireIcon is not defined","filename":"http://localhost:3000/src/components/FilzaFileManager.tsx?t=1776839752065","lineno":13,"colno":54,"stack":"ReferenceError: freefireIcon is not defined\n    at http://localhost:3000/src/components/FilzaFileManager.tsx?t=1776839752065:13:54"}],"stack":"ReferenceError: freefireIcon is not defined\n    at http://localhost:3000/src/components/FilzaFileManager.tsx?t=1776839752065:13:54"}
+[2026-04-22T06:36:07.597Z] {"timestamp":1776839761880,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-04-22T06:36:09.922Z] {"timestamp":1776839767904,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:36:09.922Z] {"timestamp":1776839767947,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:36:09.922Z] {"timestamp":1776839768276,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:36:09.922Z] {"timestamp":1776839768285,"level":"ERROR","args":[{"type":"UncaughtError","message":"Uncaught ReferenceError: freefireIcon is not defined","filename":"http://localhost:3000/src/components/FilzaFileManager.tsx","lineno":13,"colno":54,"stack":"ReferenceError: freefireIcon is not defined\n    at http://localhost:3000/src/components/FilzaFileManager.tsx:13:54"}],"stack":"ReferenceError: freefireIcon is not defined\n    at http://localhost:3000/src/components/FilzaFileManager.tsx:13:54"}
+[2026-04-22T06:38:10.311Z] {"timestamp":1776839888299,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:38:10.312Z] {"timestamp":1776839888304,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:38:10.312Z] {"timestamp":1776839888361,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:38:15.128Z] {"timestamp":1776839893112,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:38:15.128Z] {"timestamp":1776839893116,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:38:15.128Z] {"timestamp":1776839893168,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:38:17.129Z] {"timestamp":1776839895603,"level":"LOG","args":["Clicked item:",{"id":"1","name":"Free Fire","size":"Zero KB","icon":"/freefire.png","isFolder":true}],"stack":null}
+[2026-04-22T06:38:17.129Z] {"timestamp":1776839895613,"level":"ERROR","args":["%o\n\n%s\n\n%s\n",{"type":"Error","message":"freefireIcon is not defined","stack":"ReferenceError: freefireIcon is not defined\n    at FilzaFileManager (http://localhost:3000/src/components/FilzaFileManager.tsx?t=1776839881489:136:283)\n    at Object.react_stack_bottom_frame (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:18509:20)\n    at renderWithHooks (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:5654:24)\n    at updateFunctionComponent (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:7475:21)\n    at beginWork (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:8525:20)\n    at runWithFiberInDEV (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:997:72)\n    at performUnitOfWork (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:12561:98)\n    at workLoopSync (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:12424:43)\n    at renderRootSync (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:12408:13)\n    at performWorkOnRoot (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:11827:37)"},"The above error occurred in the <FilzaFileManager> component.","React will try to recreate this component tree from scratch using the error boundary you provided, ErrorBoundary."],"stack":"Error\n    at console.error (http://localhost:3000/__manus__/debug-collector.js:391:37)\n    at defaultOnCaughtError (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:7001:19)\n    at logCaughtError (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:7033:11)\n    at runWithFiberInDEV (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:997:72)\n    at update.callback (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:7066:13)\n    at callCallback (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:5491:18)\n    at commitCallbacks (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:5503:13)\n    at runWithFiberInDEV (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:997:72)\n    at commitClassCallbacks (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:9490:13)\n    at commitLayoutEffectOnFiber (http://localhost:3000/@fs/C:/Users/luana/Downloads/filza-file-manager/filza-file-manager/node_modules/.vite/deps/react-dom_client.js?v=936d666b:9958:27)"}
+[2026-04-22T06:38:20.176Z] {"timestamp":1776839897729,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:38:20.176Z] {"timestamp":1776839897732,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:38:20.176Z] {"timestamp":1776839897784,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:39:42.408Z] {"timestamp":1776839980414,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:39:42.408Z] {"timestamp":1776839980414,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:39:47.894Z] {"timestamp":1776839985883,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:39:47.894Z] {"timestamp":1776839985888,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:39:47.894Z] {"timestamp":1776839985923,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:40:04.375Z] {"timestamp":1776840002365,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T06:40:04.375Z] {"timestamp":1776840002417,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T06:40:04.375Z] {"timestamp":1776840002731,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T06:40:06.375Z] {"timestamp":1776840004881,"level":"LOG","args":["Clicked item:",{"id":"1","name":"Free Fire","size":"Zero KB","icon":"/freefire.png","isFolder":true}],"stack":null}
+[2026-04-22T06:40:08.368Z] {"timestamp":1776840007704,"level":"LOG","args":["Clicked item:",{"id":"2","name":"Discord","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:10.368Z] {"timestamp":1776840008496,"level":"LOG","args":["Clicked item:",{"id":"2","name":"Discord","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:10.368Z] {"timestamp":1776840008872,"level":"LOG","args":["Clicked item:",{"id":"5","name":"Messenger","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:10.368Z] {"timestamp":1776840009160,"level":"LOG","args":["Clicked item:",{"id":"4","name":"Telegram","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:10.368Z] {"timestamp":1776840009472,"level":"LOG","args":["Clicked item:",{"id":"7","name":"Maps","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:10.368Z] {"timestamp":1776840009736,"level":"LOG","args":["Clicked item:",{"id":"8","name":"Notes","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:10.368Z] {"timestamp":1776840010032,"level":"LOG","args":["Clicked item:",{"id":"9","name":"Mail","size":"9.3 MB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:10.368Z] {"timestamp":1776840010352,"level":"LOG","args":["Clicked item:",{"id":"6","name":"Pinterest","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:12.368Z] {"timestamp":1776840011280,"level":"LOG","args":["Clicked item:",{"id":"4","name":"Telegram","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:12.368Z] {"timestamp":1776840011792,"level":"LOG","args":["Clicked item:",{"id":"10","name":"Mercado Pago","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:12.368Z] {"timestamp":1776840012160,"level":"LOG","args":["Clicked item:",{"id":"10","name":"Mercado Pago","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:12.368Z] {"timestamp":1776840012328,"level":"LOG","args":["Clicked item:",{"id":"10","name":"Mercado Pago","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:14.368Z] {"timestamp":1776840012584,"level":"LOG","args":["Clicked item:",{"id":"10","name":"Mercado Pago","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:40:14.368Z] {"timestamp":1776840012752,"level":"LOG","args":["Clicked item:",{"id":"10","name":"Mercado Pago","size":"Zero KB","icon":"/freefire.png"}],"stack":null}
+[2026-04-22T06:44:01.136Z] {"timestamp":1776840238911,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:44:01.136Z] {"timestamp":1776840238911,"level":"DEBUG","args":["[vite]","invalidate /src/components/FilzaFileManager.tsx: Could not Fast Refresh (export removed)"],"stack":null}
+[2026-04-22T06:44:01.136Z] {"timestamp":1776840238911,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:44:01.136Z] {"timestamp":1776840238929,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-04-22T06:44:07.179Z] {"timestamp":1776840246240,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T06:44:07.179Z] {"timestamp":1776840246241,"level":"DEBUG","args":["[vite]","invalidate /src/components/FilzaFileManager.tsx: Could not Fast Refresh (new export)"],"stack":null}
+[2026-04-22T06:44:07.179Z] {"timestamp":1776840246241,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T06:44:07.179Z] {"timestamp":1776840246260,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-04-22T06:44:26.366Z] {"timestamp":1776840265934,"level":"LOG","args":["Clicked item:",{"id":"1","name":"Free Fire","size":"Zero KB","icon":"/freefire.png","isFolder":true}],"stack":null}
+[2026-04-22T06:45:34.369Z] {"timestamp":1776840332493,"level":"LOG","args":["Clicked item:",{"id":"1","name":"Free Fire","size":"Zero KB","icon":"/freefire.png","isFolder":true}],"stack":null}
+[2026-04-22T15:58:57.463Z] {"timestamp":1776873535448,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T15:58:57.463Z] {"timestamp":1776873535458,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T15:58:57.463Z] {"timestamp":1776873535888,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T15:59:28.183Z] {"timestamp":1776873566691,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T15:59:28.183Z] {"timestamp":1776873566692,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:00:19.461Z] {"timestamp":1776873617730,"level":"LOG","args":["Clicked item:",{"id":"1","name":"Free Fire","size":"Zero KB","icon":"/freefire.png","isFolder":true}],"stack":null}
+[2026-04-22T16:00:54.181Z] {"timestamp":1776873653125,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:00:54.181Z] {"timestamp":1776873653125,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:00:54.181Z] {"timestamp":1776873653697,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:00:54.181Z] {"timestamp":1776873653697,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:00:54.181Z] {"timestamp":1776873653864,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:00:54.181Z] {"timestamp":1776873653864,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:00:54.181Z] {"timestamp":1776873654037,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:00:54.181Z] {"timestamp":1776873654037,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:01:05.458Z] {"timestamp":1776873659046,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-04-22T16:01:09.395Z] {"timestamp":1776873667385,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T16:01:09.395Z] {"timestamp":1776873667435,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T16:01:09.395Z] {"timestamp":1776873667798,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T16:01:09.395Z] {"timestamp":1776873669185,"level":"LOG","args":["Clicked item:",{"id":"1","name":"Free Fire","size":"Zero KB","icon":"/freefire.png","isFolder":true}],"stack":null}
+[2026-04-22T16:01:18.941Z] {"timestamp":1776873676931,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T16:01:18.941Z] {"timestamp":1776873676981,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T16:01:18.941Z] {"timestamp":1776873677220,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T16:02:34.933Z] {"timestamp":1776873753632,"level":"LOG","args":["Clicked item:",{"id":"1","name":"Free Fire","size":"Zero KB","icon":"/freefire.png","isFolder":true}],"stack":null}
+[2026-04-22T16:04:39.176Z] {"timestamp":1776873876639,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:04:39.176Z] {"timestamp":1776873876639,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:04:39.176Z] {"timestamp":1776873877183,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:04:39.176Z] {"timestamp":1776873877183,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:04:39.176Z] {"timestamp":1776873877388,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:04:39.176Z] {"timestamp":1776873877388,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:04:39.176Z] {"timestamp":1776873877545,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:04:39.176Z] {"timestamp":1776873877545,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:04:39.176Z] {"timestamp":1776873877687,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:04:39.176Z] {"timestamp":1776873877687,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:04:39.176Z] {"timestamp":1776873877835,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:04:39.176Z] {"timestamp":1776873877836,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:06:08.568Z] {"timestamp":1776873965745,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:06:08.568Z] {"timestamp":1776873965745,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:07:20.369Z] {"timestamp":1776874038133,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:07:20.369Z] {"timestamp":1776874038133,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:09:42.366Z] {"timestamp":1776874180355,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-04-22T16:09:42.366Z] {"timestamp":1776874180363,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-04-22T16:09:42.366Z] {"timestamp":1776874180395,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-04-22T16:09:45.172Z] {"timestamp":1776874184108,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:09:45.172Z] {"timestamp":1776874184108,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:09:51.129Z] {"timestamp":1776874190037,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:09:51.129Z] {"timestamp":1776874190037,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:11:46.178Z] {"timestamp":1776874305329,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:11:46.178Z] {"timestamp":1776874305329,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:14:19.093Z] {"timestamp":1776874456899,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:14:19.093Z] {"timestamp":1776874456899,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:15:29.171Z] {"timestamp":1776874529161,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:15:29.171Z] {"timestamp":1776874529161,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:15:42.700Z] {"timestamp":1776874536425,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:15:42.700Z] {"timestamp":1776874536425,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:15:42.700Z] {"timestamp":1776874540827,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:15:42.700Z] {"timestamp":1776874540828,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:15:42.700Z] {"timestamp":1776874541080,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:15:42.700Z] {"timestamp":1776874541080,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:15:42.700Z] {"timestamp":1776874541226,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:15:42.700Z] {"timestamp":1776874541226,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:18:35.626Z] {"timestamp":1776874713706,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:18:35.626Z] {"timestamp":1776874713706,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:18:35.626Z] {"timestamp":1776874714187,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:18:35.626Z] {"timestamp":1776874714187,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:18:35.626Z] {"timestamp":1776874714357,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:18:35.626Z] {"timestamp":1776874714357,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:18:56.358Z] {"timestamp":1776874735422,"level":"LOG","args":["Clicked item:",{"id":"1","name":"Free Fire","size":"Zero KB","icon":"/freefire.png","isFolder":true}],"stack":null}
+[2026-04-22T16:20:17.209Z] {"timestamp":1776874808622,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:20:17.209Z] {"timestamp":1776874808622,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
+[2026-04-22T16:20:17.209Z] {"timestamp":1776874814749,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-04-22T16:20:17.209Z] {"timestamp":1776874814749,"level":"DEBUG","args":["[vite]","hot updated: /src/components/FilzaFileManager.tsx"],"stack":null}
