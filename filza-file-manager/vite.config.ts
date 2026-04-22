@@ -217,9 +217,9 @@ export default defineConfig({
     },
   },
   envDir: path.resolve(import.meta.dirname),
-  root: path.resolve(import.meta.dirname, "client"),
+  root: "client",
 build: {
-  outDir: path.resolve(import.meta.dirname, "dist"),
+  outDir: "dist",
   emptyOutDir: true,
 },
   server: {
